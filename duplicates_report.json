@@ -1,0 +1,4154 @@
+{
+  "Pandora, Girl of the Box": [
+    {
+      "id": "CMF-087",
+      "set_code": "CMF",
+      "rarity": "R"
+    },
+    {
+      "id": "MP01-008",
+      "set_code": "MP01",
+      "rarity": "RR"
+    },
+    {
+      "id": "MP01-009",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Magic Stone of Light": [
+    {
+      "id": "TAT-101",
+      "set_code": "TAT",
+      "rarity": "C"
+    },
+    {
+      "id": "MPR-103",
+      "set_code": "MPR",
+      "rarity": "C"
+    }
+  ],
+  "Magic Stone of Flame": [
+    {
+      "id": "TAT-102",
+      "set_code": "TAT",
+      "rarity": "C"
+    },
+    {
+      "id": "MPR-102",
+      "set_code": "MPR",
+      "rarity": "C"
+    }
+  ],
+  "Magic Stone of Water": [
+    {
+      "id": "TAT-103",
+      "set_code": "TAT",
+      "rarity": "C"
+    },
+    {
+      "id": "MPR-104",
+      "set_code": "MPR",
+      "rarity": "C"
+    }
+  ],
+  "Magic Stone of Wind": [
+    {
+      "id": "TAT-104",
+      "set_code": "TAT",
+      "rarity": "C"
+    },
+    {
+      "id": "MPR-105",
+      "set_code": "MPR",
+      "rarity": "C"
+    }
+  ],
+  "Magic Stone of Darkness": [
+    {
+      "id": "TAT-105",
+      "set_code": "TAT",
+      "rarity": "C"
+    },
+    {
+      "id": "MPR-101",
+      "set_code": "MPR",
+      "rarity": "C"
+    }
+  ],
+  "Breath of the God": [
+    {
+      "id": "VIN001-003",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Duet of Light": [
+    {
+      "id": "VIN001-004",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "March of Saints": [
+    {
+      "id": "VIN001-010",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Silver Stake": [
+    {
+      "id": "VIN001-013",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Crime and Punishment": [
+    {
+      "id": "VIN001-019",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "AO3-018",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Kusanagi Sword": [
+    {
+      "id": "VIN001-022",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Rapid Decay": [
+    {
+      "id": "VIN001-026",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Thunder": [
+    {
+      "id": "VIN001-029",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "AO1-035",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Dreams of Wonderland": [
+    {
+      "id": "VIN001-039",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "MP01-084",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Glimpse of Kaguya": [
+    {
+      "id": "VIN001-040",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Whirlpool of Knowledge": [
+    {
+      "id": "VIN001-044",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Witch's Dagger": [
+    {
+      "id": "VIN001-045",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Art of Sinbad": [
+    {
+      "id": "VIN001-047",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Evolution of Limits": [
+    {
+      "id": "VIN001-051",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Law of Silence": [
+    {
+      "id": "VIN001-054",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "MP01-048",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Silver Shoes": [
+    {
+      "id": "VIN001-057",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Wind of Gods": [
+    {
+      "id": "VIN001-060",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "MSW-055^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Demon's Curse": [
+    {
+      "id": "VIN001-063",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Ritual of Millennia": [
+    {
+      "id": "VIN001-071",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Stoning to Death": [
+    {
+      "id": "VIN001-073",
+      "set_code": "VIN001",
+      "rarity": "C"
+    }
+  ],
+  "Magic Stone of Black Silence": [
+    {
+      "id": "VIN001-080",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-086",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "AO3-090",
+      "set_code": "AO3",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Blasting Waves": [
+    {
+      "id": "VIN001-081",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-087",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO2-034",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Magic Stone of Dark Depth": [
+    {
+      "id": "VIN001-082",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-088",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO2-035",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Magic Stone of Deep Wood": [
+    {
+      "id": "VIN001-083",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-089",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "AO2-064",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Magic Stone of Gusting Skies": [
+    {
+      "id": "VIN001-084",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-090",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "AO3-091",
+      "set_code": "AO3",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Hearth's Core": [
+    {
+      "id": "VIN001-085",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-091",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "AO3-092",
+      "set_code": "AO3",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Heat Ray": [
+    {
+      "id": "VIN001-086",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-092",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "AO1-067",
+      "set_code": "AO1",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Heaven's Rift": [
+    {
+      "id": "VIN001-087",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-093",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "PofA-123",
+      "set_code": "PofA",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Light Vapors": [
+    {
+      "id": "VIN001-088",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-094",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-034",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Magic Stone of Scorched Bales": [
+    {
+      "id": "VIN001-089",
+      "set_code": "VIN001",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-095",
+      "set_code": "CFC",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-035",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Pride of Knights": [
+    {
+      "id": "VS01-012",
+      "set_code": "VS01",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-014",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "AO1-012",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Fire Magic Stone": [
+    {
+      "id": "VS01-033",
+      "set_code": "VS01",
+      "rarity": ""
+    },
+    {
+      "id": "SKL-102",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-107",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "TMS-102",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "BFA-102",
+      "set_code": "BFA",
+      "rarity": "C"
+    },
+    {
+      "id": "SDL2-012",
+      "set_code": "SDL2",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-097",
+      "set_code": "CFC",
+      "rarity": "C"
+    },
+    {
+      "id": "LEL-102",
+      "set_code": "LEL",
+      "rarity": "C"
+    },
+    {
+      "id": "VIN003-097",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "RDE-102",
+      "set_code": "RDE",
+      "rarity": "C"
+    },
+    {
+      "id": "ENW-102",
+      "set_code": "ENW",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR2-013",
+      "set_code": "SDR2",
+      "rarity": "C"
+    },
+    {
+      "id": "ACN-157",
+      "set_code": "ACN",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR6-015",
+      "set_code": "SDR6",
+      "rarity": ""
+    },
+    {
+      "id": "SDV2-023",
+      "set_code": "SDV2",
+      "rarity": "C"
+    },
+    {
+      "id": "SDAO1-036",
+      "set_code": "SDAO1",
+      "rarity": ""
+    },
+    {
+      "id": "DSD-023",
+      "set_code": "DSD",
+      "rarity": ""
+    },
+    {
+      "id": "GOG-090",
+      "set_code": "GOG",
+      "rarity": ""
+    },
+    {
+      "id": "NWE-108",
+      "set_code": "NWE",
+      "rarity": ""
+    },
+    {
+      "id": "MP01-177",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Light Magic Stone": [
+    {
+      "id": "VS01-034",
+      "set_code": "VS01",
+      "rarity": ""
+    },
+    {
+      "id": "SKL-103",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-108",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "TMS-103",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "BFA-103",
+      "set_code": "BFA",
+      "rarity": "C"
+    },
+    {
+      "id": "SDL1-012",
+      "set_code": "SDL1",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-098",
+      "set_code": "CFC",
+      "rarity": "C"
+    },
+    {
+      "id": "LEL-103",
+      "set_code": "LEL",
+      "rarity": "C"
+    },
+    {
+      "id": "VIN003-098",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "RDE-103",
+      "set_code": "RDE",
+      "rarity": "C"
+    },
+    {
+      "id": "ENW-103",
+      "set_code": "ENW",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR1-013",
+      "set_code": "SDR1",
+      "rarity": "C"
+    },
+    {
+      "id": "ACN-158",
+      "set_code": "ACN",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR6-016",
+      "set_code": "SDR6",
+      "rarity": ""
+    },
+    {
+      "id": "SDV1-023",
+      "set_code": "SDV1",
+      "rarity": "C"
+    },
+    {
+      "id": "SDAO1-037",
+      "set_code": "SDAO1",
+      "rarity": ""
+    },
+    {
+      "id": "GOG-091",
+      "set_code": "GOG",
+      "rarity": ""
+    },
+    {
+      "id": "HSD-025",
+      "set_code": "HSD",
+      "rarity": ""
+    },
+    {
+      "id": "NWE-107",
+      "set_code": "NWE",
+      "rarity": ""
+    },
+    {
+      "id": "MP01-176",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Blessed Holy Wolf": [
+    {
+      "id": "SKL-004",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "AO1-002",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Faria, the Sacred Queen": [
+    {
+      "id": "SKL-007",
+      "set_code": "SKL",
+      "rarity": "R"
+    }
+  ],
+  "Faria, the Ruler of God Sword": [
+    {
+      "id": "SKL-007J",
+      "set_code": "SKL",
+      "rarity": "R"
+    }
+  ],
+  "Gwiber, the White Dragon": [
+    {
+      "id": "SKL-009",
+      "set_code": "SKL",
+      "rarity": "U"
+    },
+    {
+      "id": "AO1-006",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Certo, the Blazing Volcano": [
+    {
+      "id": "SKL-019",
+      "set_code": "SKL",
+      "rarity": "U"
+    },
+    {
+      "id": "VIN003-022",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "AO1-021",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Dragoon of Certo": [
+    {
+      "id": "SKL-020",
+      "set_code": "SKL",
+      "rarity": "C"
+    }
+  ],
+  "Draig, the Red Dragon": [
+    {
+      "id": "SKL-021",
+      "set_code": "SKL",
+      "rarity": "U"
+    },
+    {
+      "id": "AO1-022",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Flame King's Shout": [
+    {
+      "id": "SKL-025",
+      "set_code": "SKL",
+      "rarity": "C"
+    }
+  ],
+  "Melgis, the Flame King": [
+    {
+      "id": "SKL-027",
+      "set_code": "SKL",
+      "rarity": "R"
+    }
+  ],
+  "Melgis, the One Charmed by the Demon Sword": [
+    {
+      "id": "SKL-027J",
+      "set_code": "SKL",
+      "rarity": "R"
+    }
+  ],
+  "Alice, the Girl in the Looking Glass": [
+    {
+      "id": "SKL-093",
+      "set_code": "SKL",
+      "rarity": "R"
+    }
+  ],
+  "Darkness Magic Stone": [
+    {
+      "id": "SKL-101",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-106",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "TMS-101",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "BFA-101",
+      "set_code": "BFA",
+      "rarity": "C"
+    },
+    {
+      "id": "SDL5-012",
+      "set_code": "SDL5",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-096",
+      "set_code": "CFC",
+      "rarity": "C"
+    },
+    {
+      "id": "LEL-101",
+      "set_code": "LEL",
+      "rarity": "C"
+    },
+    {
+      "id": "VIN003-096",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "RDE-101",
+      "set_code": "RDE",
+      "rarity": "C"
+    },
+    {
+      "id": "ENW-101",
+      "set_code": "ENW",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR5-013",
+      "set_code": "SDR5",
+      "rarity": "C"
+    },
+    {
+      "id": "ACN-156",
+      "set_code": "ACN",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR6-014",
+      "set_code": "SDR6",
+      "rarity": ""
+    },
+    {
+      "id": "SDV5-023",
+      "set_code": "SDV5",
+      "rarity": "C"
+    },
+    {
+      "id": "GOG-089",
+      "set_code": "GOG",
+      "rarity": ""
+    },
+    {
+      "id": "HSD-028",
+      "set_code": "HSD",
+      "rarity": ""
+    },
+    {
+      "id": "NWE-111",
+      "set_code": "NWE",
+      "rarity": ""
+    },
+    {
+      "id": "MP01-180",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Water Magic Stone": [
+    {
+      "id": "SKL-104",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-109",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "TMS-104",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "BFA-104",
+      "set_code": "BFA",
+      "rarity": "C"
+    },
+    {
+      "id": "SDL3-012",
+      "set_code": "SDL3",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-099",
+      "set_code": "CFC",
+      "rarity": "C"
+    },
+    {
+      "id": "LEL-104",
+      "set_code": "LEL",
+      "rarity": "C"
+    },
+    {
+      "id": "VIN003-099",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "RDE-104",
+      "set_code": "RDE",
+      "rarity": "C"
+    },
+    {
+      "id": "ENW-104",
+      "set_code": "ENW",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR3-013",
+      "set_code": "SDR3",
+      "rarity": "SR"
+    },
+    {
+      "id": "ACN-159",
+      "set_code": "ACN",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR6-017",
+      "set_code": "SDR6",
+      "rarity": ""
+    },
+    {
+      "id": "SDV3-023",
+      "set_code": "SDV3",
+      "rarity": "C"
+    },
+    {
+      "id": "SDAO2-036",
+      "set_code": "SDAO2",
+      "rarity": ""
+    },
+    {
+      "id": "GOG-092",
+      "set_code": "GOG",
+      "rarity": ""
+    },
+    {
+      "id": "HSD-026",
+      "set_code": "HSD",
+      "rarity": ""
+    },
+    {
+      "id": "NWE-109",
+      "set_code": "NWE",
+      "rarity": ""
+    },
+    {
+      "id": "MP01-178",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Wind Magic Stone": [
+    {
+      "id": "SKL-105",
+      "set_code": "SKL",
+      "rarity": "C"
+    },
+    {
+      "id": "TTW-110",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "TMS-105",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "BFA-105",
+      "set_code": "BFA",
+      "rarity": "C"
+    },
+    {
+      "id": "SDL4-012",
+      "set_code": "SDL4",
+      "rarity": "C"
+    },
+    {
+      "id": "CFC-100",
+      "set_code": "CFC",
+      "rarity": "C"
+    },
+    {
+      "id": "LEL-105",
+      "set_code": "LEL",
+      "rarity": "C"
+    },
+    {
+      "id": "VIN003-100",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "RDE-105",
+      "set_code": "RDE",
+      "rarity": "C"
+    },
+    {
+      "id": "ENW-105",
+      "set_code": "ENW",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR4-013",
+      "set_code": "SDR4",
+      "rarity": "C"
+    },
+    {
+      "id": "ACN-160",
+      "set_code": "ACN",
+      "rarity": "C"
+    },
+    {
+      "id": "SDR6-018",
+      "set_code": "SDR6",
+      "rarity": ""
+    },
+    {
+      "id": "SDV4-023",
+      "set_code": "SDV4",
+      "rarity": "C"
+    },
+    {
+      "id": "SDAO2-037",
+      "set_code": "SDAO2",
+      "rarity": ""
+    },
+    {
+      "id": "GOG-093",
+      "set_code": "GOG",
+      "rarity": ""
+    },
+    {
+      "id": "HSD-027",
+      "set_code": "HSD",
+      "rarity": ""
+    },
+    {
+      "id": "NWE-110",
+      "set_code": "NWE",
+      "rarity": ""
+    },
+    {
+      "id": "MP01-179",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Galahad, the Son of the God": [
+    {
+      "id": "TTW-006",
+      "set_code": "TTW",
+      "rarity": "U"
+    },
+    {
+      "id": "AO1-004",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Gawain, the Knight of the Sun": [
+    {
+      "id": "TTW-007",
+      "set_code": "TTW",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-003",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Gloria's Castle Town": [
+    {
+      "id": "TTW-008",
+      "set_code": "TTW",
+      "rarity": "U"
+    },
+    {
+      "id": "VIN003-005",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "AO1-005",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Justice of God's Sword": [
+    {
+      "id": "TTW-010",
+      "set_code": "TTW",
+      "rarity": "C"
+    }
+  ],
+  "Perceval, the Seeker of Holy Grail": [
+    {
+      "id": "TTW-013",
+      "set_code": "TTW",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-005",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Young Knight of Gloria": [
+    {
+      "id": "TTW-018",
+      "set_code": "TTW",
+      "rarity": "C"
+    }
+  ],
+  "Flamewing Wyvern": [
+    {
+      "id": "TTW-025",
+      "set_code": "TTW",
+      "rarity": "C"
+    }
+  ],
+  "Flash of Demon Sword": [
+    {
+      "id": "TTW-026",
+      "set_code": "TTW",
+      "rarity": "C"
+    }
+  ],
+  "Guinevere, the Jealous Queen": [
+    {
+      "id": "TTW-027",
+      "set_code": "TTW",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-009",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Hector de Maris, the Acolyte of Mad Demon": [
+    {
+      "id": "TTW-028",
+      "set_code": "TTW",
+      "rarity": "U"
+    },
+    {
+      "id": "SDAO1-010",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Lancelot, the Knight of Mad Demon": [
+    {
+      "id": "TTW-029",
+      "set_code": "TTW",
+      "rarity": "R"
+    },
+    {
+      "id": "SDAO1-011",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Whelp Drake": [
+    {
+      "id": "TTW-036",
+      "set_code": "TTW",
+      "rarity": "C"
+    },
+    {
+      "id": "AO1-037",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Excalibur, the God's Sword": [
+    {
+      "id": "TTW-097",
+      "set_code": "TTW",
+      "rarity": "R"
+    }
+  ],
+  "Laevateinn, the Demon Sword": [
+    {
+      "id": "TTW-099",
+      "set_code": "TTW",
+      "rarity": "R"
+    }
+  ],
+  "Temple Monk": [
+    {
+      "id": "TMS-014",
+      "set_code": "TMS",
+      "rarity": "C"
+    }
+  ],
+  "Tristan, the Knight of Sorrow": [
+    {
+      "id": "TMS-015",
+      "set_code": "TMS",
+      "rarity": "U"
+    }
+  ],
+  "Veteran Master": [
+    {
+      "id": "TMS-017",
+      "set_code": "TMS",
+      "rarity": "C"
+    }
+  ],
+  "Demonflame": [
+    {
+      "id": "TMS-021",
+      "set_code": "TMS",
+      "rarity": "U"
+    },
+    {
+      "id": "VIN003-023",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "SDAO1-008",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Mordred, the Traitor": [
+    {
+      "id": "TMS-028",
+      "set_code": "TMS",
+      "rarity": "U"
+    }
+  ],
+  "Rukh Egg": [
+    {
+      "id": "TMS-029",
+      "set_code": "TMS",
+      "rarity": "C"
+    },
+    {
+      "id": "AO1-033",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Spirit of Certo": [
+    {
+      "id": "TMS-030",
+      "set_code": "TMS",
+      "rarity": "C"
+    }
+  ],
+  "Memoria of the Seven Lands": [
+    {
+      "id": "BFA-092",
+      "set_code": "BFA",
+      "rarity": "R"
+    },
+    {
+      "id": "BFA-093",
+      "set_code": "BFA",
+      "rarity": "R"
+    },
+    {
+      "id": "BFA-094",
+      "set_code": "BFA",
+      "rarity": "R"
+    },
+    {
+      "id": "BFA-095",
+      "set_code": "BFA",
+      "rarity": "R"
+    }
+  ],
+  "Manifestation of Power": [
+    {
+      "id": "VIN003-011",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Protective Barrier": [
+    {
+      "id": "VIN003-012",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "AO1-013",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "The Final Word": [
+    {
+      "id": "VIN003-014",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Zero's Magic Light": [
+    {
+      "id": "VIN003-015",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Blood Boil": [
+    {
+      "id": "VIN003-019",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Burn to Cinders": [
+    {
+      "id": "VIN003-020",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "AO1-020",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Introspective Jutsu": [
+    {
+      "id": "VIN003-026",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Charlotte's Water Transformation Magic": [
+    {
+      "id": "VIN003-032",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Charm of the Princess": [
+    {
+      "id": "VIN003-033",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "SDAO2-003",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Dance of Inspiration": [
+    {
+      "id": "VIN003-035",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Separation of Body and Soul": [
+    {
+      "id": "VIN003-039",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Shackles of Ice": [
+    {
+      "id": "VIN003-040",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Heavenly Gust": [
+    {
+      "id": "VIN003-049",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Pricia's Call to Action": [
+    {
+      "id": "VIN003-054",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "AO2-026",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Rapid Growth": [
+    {
+      "id": "VIN003-055",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "SDAO2-014",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "The Beast Queen's Counterattack": [
+    {
+      "id": "VIN003-058",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Wind-Secluded Refuge": [
+    {
+      "id": "VIN003-060",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Dark Purge": [
+    {
+      "id": "VIN003-063",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Endless Night": [
+    {
+      "id": "VIN003-066",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "The Gate of the Silver Key": [
+    {
+      "id": "VIN003-073",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "The Scorn of Dark Alice": [
+    {
+      "id": "VIN003-074",
+      "set_code": "VIN003",
+      "rarity": ""
+    },
+    {
+      "id": "PofA-076",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Unseen Pressure": [
+    {
+      "id": "VIN003-075",
+      "set_code": "VIN003",
+      "rarity": ""
+    }
+  ],
+  "Gem Trader": [
+    {
+      "id": "ACN-007",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Jewel Shield": [
+    {
+      "id": "ACN-011",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Jewel Sword": [
+    {
+      "id": "ACN-012",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "White Raven": [
+    {
+      "id": "ACN-028",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Burning Awakening": [
+    {
+      "id": "ACN-033",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Hell Flame": [
+    {
+      "id": "ACN-048",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Hoelle Pig": [
+    {
+      "id": "ACN-050",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Hoellesaurus": [
+    {
+      "id": "ACN-051",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Aqua Rifle Mermaid": [
+    {
+      "id": "ACN-059",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Cleansing Rain": [
+    {
+      "id": "ACN-062",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Princess Shaela's Attendant": [
+    {
+      "id": "ACN-076",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Weather Change: Rain": [
+    {
+      "id": "ACN-085",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Gentle Breeze Elemental": [
+    {
+      "id": "ACN-097",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Leaf Fighter": [
+    {
+      "id": "ACN-100",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Tree Root Sprite": [
+    {
+      "id": "ACN-111",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Winds of Vitality": [
+    {
+      "id": "ACN-114",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Ahriman, Malicious Eye in the Dark": [
+    {
+      "id": "ACN-115",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Dark Night Butterfly": [
+    {
+      "id": "ACN-121",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Moonlight Shadow": [
+    {
+      "id": "ACN-131",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Sword of the New Moon": [
+    {
+      "id": "ACN-135",
+      "set_code": "ACN",
+      "rarity": "C"
+    }
+  ],
+  "Taegrus Pearlshine": [
+    {
+      "id": "ADK-024",
+      "set_code": "ADK",
+      "rarity": "R"
+    }
+  ],
+  "Taegrus Pearlshine, Lord of the Mountain": [
+    {
+      "id": "ADK-024J",
+      "set_code": "ADK",
+      "rarity": "R"
+    }
+  ],
+  "Gill": [
+    {
+      "id": "ADK-097",
+      "set_code": "ADK",
+      "rarity": "R"
+    },
+    {
+      "id": "MP01-147",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Gill, the Gifted Conjurer": [
+    {
+      "id": "ADK-097J",
+      "set_code": "ADK",
+      "rarity": "R"
+    },
+    {
+      "id": "MP01-147J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Reiya, Fourth Daughter of the Mikage": [
+    {
+      "id": "ADK-140",
+      "set_code": "ADK",
+      "rarity": "R"
+    },
+    {
+      "id": "WOM-102",
+      "set_code": "WOM",
+      "rarity": "R"
+    },
+    {
+      "id": "MP01-151",
+      "set_code": "MP01",
+      "rarity": "RR"
+    },
+    {
+      "id": "MP01-151J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Reiya, Fourth Daughter of the Mikage [J-Ruler]": [
+    {
+      "id": "ADK-140J",
+      "set_code": "ADK",
+      "rarity": "R"
+    },
+    {
+      "id": "WOM-102J",
+      "set_code": "WOM",
+      "rarity": "R"
+    }
+  ],
+  "Kirik Rerik": [
+    {
+      "id": "TSW-045",
+      "set_code": "TSW",
+      "rarity": "R"
+    }
+  ],
+  "Kirik Rerik, the Draconic Warrior": [
+    {
+      "id": "TSW-045J",
+      "set_code": "TSW",
+      "rarity": "R"
+    }
+  ],
+  "Shaela": [
+    {
+      "id": "TSW-076",
+      "set_code": "TSW",
+      "rarity": "R"
+    }
+  ],
+  "Shaela, the Mermaid Princess": [
+    {
+      "id": "TSW-076J",
+      "set_code": "TSW",
+      "rarity": "R"
+    }
+  ],
+  "Acolyte of the Sun": [
+    {
+      "id": "DBV-001",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Bethor, the Angel of Treasure": [
+    {
+      "id": "DBV-005",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Bewilder": [
+    {
+      "id": "DBV-006",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Brunhild's Wrath": [
+    {
+      "id": "DBV-008",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Dispel": [
+    {
+      "id": "DBV-010",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Einherjar's Summons": [
+    {
+      "id": "DBV-011",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Eir, Valkyrie of Mercy": [
+    {
+      "id": "DBV-012",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Phaleg, the Angel of War": [
+    {
+      "id": "DBV-016",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Sigrun, Valkyrie of Victory": [
+    {
+      "id": "DBV-017",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Sorceress of the Moon": [
+    {
+      "id": "DBV-018",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Concealed Khopesh": [
+    {
+      "id": "DBV-019",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Dragon's Flight": [
+    {
+      "id": "DBV-021",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Explosion": [
+    {
+      "id": "DBV-022",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Pang Tong": [
+    {
+      "id": "DBV-027",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Reckless Flame Soldier": [
+    {
+      "id": "DBV-028",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Sand Dragon": [
+    {
+      "id": "DBV-029",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Sandora Blacksmith": [
+    {
+      "id": "DBV-030",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Set, the Commander of Destruction": [
+    {
+      "id": "DBV-031",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Soldier Ambush": [
+    {
+      "id": "DBV-032",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Tiger of Kunlun": [
+    {
+      "id": "DBV-034",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Donut Drone": [
+    {
+      "id": "DBV-040",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Gawain, the Swift Knight": [
+    {
+      "id": "DBV-042",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Gretel of Misty Woods": [
+    {
+      "id": "DBV-043",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Loki's Watchdog, Fenrir": [
+    {
+      "id": "DBV-044",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Maintenance": [
+    {
+      "id": "DBV-046",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Mechanical Bishop": [
+    {
+      "id": "DBV-047",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Monstrosify": [
+    {
+      "id": "DBV-048",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Overflowing Knowledge": [
+    {
+      "id": "DBV-050",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Perceval, the Shining Knight": [
+    {
+      "id": "DBV-051",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Reconnaissance": [
+    {
+      "id": "DBV-052",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Chiyome, the Captivating Kunoichi": [
+    {
+      "id": "DBV-061",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Forest Meditation": [
+    {
+      "id": "DBV-062",
+      "set_code": "DBV",
+      "rarity": ""
+    }
+  ],
+  "Fuhma Shuriken": [
+    {
+      "id": "DBV-063",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Huge Toad": [
+    {
+      "id": "DBV-064",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Jiraiya, the Toad User": [
+    {
+      "id": "DBV-065",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Pygmy Hippo": [
+    {
+      "id": "DBV-066",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Snipe Away Mi-!!": [
+    {
+      "id": "DBV-068",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Soot Sprite": [
+    {
+      "id": "DBV-069",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "The Hundred Eyed One": [
+    {
+      "id": "DBV-070",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Whirlwind Technique": [
+    {
+      "id": "DBV-072",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Demon Division": [
+    {
+      "id": "DBV-074",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Fanatic of Grief": [
+    {
+      "id": "DBV-076",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Fleurety": [
+    {
+      "id": "DBV-077",
+      "set_code": "DBV",
+      "rarity": ""
+    }
+  ],
+  "Immortal Commander": [
+    {
+      "id": "DBV-078",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Shemhaza, the Fallen Angel of Sadism": [
+    {
+      "id": "DBV-084",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Skeleton Horde": [
+    {
+      "id": "DBV-085",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Sword of Lament": [
+    {
+      "id": "DBV-086",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Tears of the Fallen": [
+    {
+      "id": "DBV-087",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Undeath": [
+    {
+      "id": "DBV-088",
+      "set_code": "DBV",
+      "rarity": "C"
+    }
+  ],
+  "Vlad, the Insatiable": [
+    {
+      "id": "DBV-090",
+      "set_code": "DBV",
+      "rarity": "U"
+    }
+  ],
+  "Avalon, Illusionary Home of Knights": [
+    {
+      "id": "SDAO1-001",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Bedivere, the Restorer of Souls": [
+    {
+      "id": "SDAO1-002",
+      "set_code": "SDAO1",
+      "rarity": ""
+    }
+  ],
+  "Bors, Returned Adventurer": [
+    {
+      "id": "AO1-003",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Life Profiteering Priest": [
+    {
+      "id": "AO1-008",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Familiar of Primogenitor": [
+    {
+      "id": "AO1-023",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Gareth, the Dauntless Knight": [
+    {
+      "id": "AO1-025",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Keeper of the Future, Skuld": [
+    {
+      "id": "AO1-028",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Keeper of the Past, Urthr": [
+    {
+      "id": "AO1-029",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Keeper of the Present, Verdandi": [
+    {
+      "id": "AO1-030",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Memory of Disappearance": [
+    {
+      "id": "AO1-031",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Sanguine Arena": [
+    {
+      "id": "AO1-034",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Torching the Timeline": [
+    {
+      "id": "AO1-036",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Alice's Little Scout": [
+    {
+      "id": "AO1-038",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Dark Alice's Shadow Warrior": [
+    {
+      "id": "AO1-043",
+      "set_code": "AO1",
+      "rarity": "N"
+    }
+  ],
+  "Cinderella, the Valkyrie of Glass": [
+    {
+      "id": "SDAO2-004",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Valentina's Zealot": [
+    {
+      "id": "SDAO2-007",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Afanc, the Phantom Beast": [
+    {
+      "id": "SDAO2-008",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Herald of the Beast Lady": [
+    {
+      "id": "SDAO2-012",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Sprinting Wolf": [
+    {
+      "id": "SDAO2-015",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Space-Time Anomaly": [
+    {
+      "id": "SDAO2-029",
+      "set_code": "SDAO2",
+      "rarity": ""
+    }
+  ],
+  "Attoractia's Memoria": [
+    {
+      "id": "SDAO2-033",
+      "set_code": "SDAO2",
+      "rarity": ""
+    },
+    {
+      "id": "AO2-063",
+      "set_code": "AO2",
+      "rarity": "N"
+    },
+    {
+      "id": "AO3-089",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Bai Hu, the Sacred Beast": [
+    {
+      "id": "AO2-001",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Zhu Que, the Sacred Beast": [
+    {
+      "id": "AO2-003",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "All Consuming Suspicion": [
+    {
+      "id": "AO2-005",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Euryale, the Dark Eye of Blindness": [
+    {
+      "id": "AO2-008",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Foresee": [
+    {
+      "id": "AO2-009",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Medusa, the Dead Eye of Petrification": [
+    {
+      "id": "AO2-013",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Shangri-La, the Paradise on the Ocean": [
+    {
+      "id": "AO2-015",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Stheno, the Evil Eye of Temptation": [
+    {
+      "id": "AO2-017",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Xuan Wu, the Sacred Beast": [
+    {
+      "id": "AO2-023",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Qing Long, the Sacred Beast": [
+    {
+      "id": "AO2-027",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Ratatoskr, the Spirit Beast of Yggdrasil": [
+    {
+      "id": "AO2-028",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Sissei, the Ancient Forest": [
+    {
+      "id": "AO2-031",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Dance of the Shadows": [
+    {
+      "id": "AO2-035",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Clockwork Soldiers": [
+    {
+      "id": "AO2-056",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Leginus, the Mechanical City": [
+    {
+      "id": "AO2-058",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Machine Lab of Leginus": [
+    {
+      "id": "AO2-059",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Mariabella's Work": [
+    {
+      "id": "AO2-060",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Remote Control Beast": [
+    {
+      "id": "AO2-061",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Remote Control Golem": [
+    {
+      "id": "AO2-062",
+      "set_code": "AO2",
+      "rarity": "N"
+    }
+  ],
+  "Celestial Wing Seraph": [
+    {
+      "id": "AO3-005",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Dignified Seraph": [
+    {
+      "id": "AO3-007",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Give Wings": [
+    {
+      "id": "AO3-008",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Heavenly Garden of Armalla": [
+    {
+      "id": "AO3-009",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Herald of the Winged Lord": [
+    {
+      "id": "AO3-010",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Rabbit of Moonlit Nights": [
+    {
+      "id": "AO3-015",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Release": [
+    {
+      "id": "AO3-016",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Wingman of Armalla": [
+    {
+      "id": "AO3-017",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Snow White, the Valkyrie of Passion": [
+    {
+      "id": "AO3-024",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Alice's Castling": [
+    {
+      "id": "AO3-027",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Riina, the Girl with Nothing": [
+    {
+      "id": "AO3-032",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Wall of Ideas": [
+    {
+      "id": "AO3-034",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Morgiana, the Wise Servant": [
+    {
+      "id": "AO3-037",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Arthur, the Dead Lord of Vengeance": [
+    {
+      "id": "AO3-039",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Blood of the Mikage": [
+    {
+      "id": "AO3-041",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Fallen Angelic Destroyer, Lucifer": [
+    {
+      "id": "AO3-042",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Necromancy of the Undead Lord": [
+    {
+      "id": "AO3-048",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Niflheim, the Realm of the Dead": [
+    {
+      "id": "AO3-049",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Soulhunt": [
+    {
+      "id": "AO3-052",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Soulless Soldier": [
+    {
+      "id": "AO3-053",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Vampire's Staff": [
+    {
+      "id": "AO3-054",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Griphon, Racing Across Darkness": [
+    {
+      "id": "AO3-070",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Pricia, Pursuant of Exploding Flame": [
+    {
+      "id": "AO3-077",
+      "set_code": "AO3",
+      "rarity": "N"
+    }
+  ],
+  "Tsukuyomi Noble": [
+    {
+      "id": "PofA-012",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Athena, Titan of Revenge": [
+    {
+      "id": "PofA-020",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Ouroboros, the Snake of Reincarnation": [
+    {
+      "id": "PofA-024",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Phoenix, the Flame of the World": [
+    {
+      "id": "PofA-025",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Collapsing World": [
+    {
+      "id": "PofA-050",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Demon of the Black Moon, Lilith": [
+    {
+      "id": "PofA-055",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Izanami, the Sealed Terror": [
+    {
+      "id": "PofA-058",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Lapis' Dark Storm": [
+    {
+      "id": "PofA-060",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Pitch Black Moon": [
+    {
+      "id": "PofA-068",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Shadow Doppelganger": [
+    {
+      "id": "PofA-071",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Alice's World of Madness": [
+    {
+      "id": "PofA-081",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Black Moon's Memoria": [
+    {
+      "id": "PofA-122",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Ruler's Memoria": [
+    {
+      "id": "PofA-124",
+      "set_code": "PofA",
+      "rarity": "N"
+    }
+  ],
+  "Magic Crest of Light": [
+    {
+      "id": "EDL-008",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Spirit of Light": [
+    {
+      "id": "EDL-013",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Magic Crest of Fire": [
+    {
+      "id": "EDL-034",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Magic Crest of Water": [
+    {
+      "id": "EDL-047",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Magic Crest of Wind": [
+    {
+      "id": "EDL-063",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Magic Crest of Darkness": [
+    {
+      "id": "EDL-087",
+      "set_code": "EDL",
+      "rarity": "N"
+    }
+  ],
+  "Rapunzel, the Long-Haired Princess": [
+    {
+      "id": "MSW-009",
+      "set_code": "MSW",
+      "rarity": "N"
+    }
+  ],
+  "Tinker Bell, the Spirit": [
+    {
+      "id": "MSW-017",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Rain of Light": [
+    {
+      "id": "MSW-017^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Salamander, the Spirit of Fire": [
+    {
+      "id": "MSW-027",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Ghostflame": [
+    {
+      "id": "MSW-027^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Purplemist, the Fantasy Dragon": [
+    {
+      "id": "MSW-045",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Moon Incarnation": [
+    {
+      "id": "MSW-045^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Glinda, the Fairy": [
+    {
+      "id": "MSW-054",
+      "set_code": "MSW",
+      "rarity": "N"
+    }
+  ],
+  "Little Red, Fairy Tale of Air": [
+    {
+      "id": "MSW-055",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Abdul Alhazred, Poet of Madness": [
+    {
+      "id": "MSW-068",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Dark Pulse": [
+    {
+      "id": "MSW-068^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Flame of Outer World": [
+    {
+      "id": "MSW-091^",
+      "set_code": "MSW",
+      "rarity": "R"
+    }
+  ],
+  "Moonbreeze's Memoria": [
+    {
+      "id": "MSW-100",
+      "set_code": "MSW",
+      "rarity": "N"
+    }
+  ],
+  "Artillerist of Faith": [
+    {
+      "id": "GOG-001",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Choir of the Valkyries": [
+    {
+      "id": "GOG-003",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Kara, Swift Valkyrie": [
+    {
+      "id": "GOG-005",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Keep the Faith!": [
+    {
+      "id": "GOG-006",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Praying Valkyrie": [
+    {
+      "id": "GOG-011",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Randgrid": [
+    {
+      "id": "GOG-012",
+      "set_code": "GOG",
+      "rarity": "R"
+    }
+  ],
+  "Repeating Faith Revival": [
+    {
+      "id": "GOG-013",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Soldier of Minerva": [
+    {
+      "id": "GOG-014",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Barbatos, Aspiring Ascendant": [
+    {
+      "id": "GOG-018",
+      "set_code": "GOG",
+      "rarity": "R"
+    }
+  ],
+  "Cthulhu's Intimidation": [
+    {
+      "id": "GOG-019",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Flame Soldier of Ma'at": [
+    {
+      "id": "GOG-021",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Flaming Salamander": [
+    {
+      "id": "GOG-022",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Phantasmal Ascendant": [
+    {
+      "id": "GOG-026",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Red Flame": [
+    {
+      "id": "GOG-028",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Spirit of Ma'at": [
+    {
+      "id": "GOG-030",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Sudden Manifestation of Power": [
+    {
+      "id": "GOG-031",
+      "set_code": "GOG",
+      "rarity": "N"
+    }
+  ],
+  "Nyarlathotep, Game Master": [
+    {
+      "id": "GOG-081",
+      "set_code": "GOG",
+      "rarity": "RR"
+    }
+  ],
+  "Odin, God of War": [
+    {
+      "id": "GOG-082",
+      "set_code": "GOG",
+      "rarity": "RR"
+    }
+  ],
+  "Violet and Mariabella, Chasing Fire": [
+    {
+      "id": "D2 Prerelease Party",
+      "set_code": "GRL",
+      "rarity": ""
+    }
+  ],
+  "Guinevere, Space-Time Watcher": [
+    {
+      "id": "D2 Buy a Box",
+      "set_code": "GRL",
+      "rarity": ""
+    }
+  ],
+  "Algernon, Wise Observer": [
+    {
+      "id": "D3 Prerelease Party",
+      "set_code": "GRV",
+      "rarity": ""
+    }
+  ],
+  "Zweihunter, Mechanized Round Table Destroyer": [
+    {
+      "id": "D3 Buy a Box",
+      "set_code": "GRV",
+      "rarity": ""
+    }
+  ],
+  "Contract of the Water Moon": [
+    {
+      "id": "NWE-SEC1",
+      "set_code": "NWE",
+      "rarity": "R"
+    },
+    {
+      "id": "NWE-060",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Fairy Tale King": [
+    {
+      "id": "NWE-SEC1J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    },
+    {
+      "id": "NWE-060J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    }
+  ],
+  "Night of the Legendary Vampire": [
+    {
+      "id": "NWE-SEC5",
+      "set_code": "NWE",
+      "rarity": "R"
+    },
+    {
+      "id": "NWE-072",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "End of Night": [
+    {
+      "id": "NWE-SEC5J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    },
+    {
+      "id": "NWE-072J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    }
+  ],
+  "Phantasmal March Hare": [
+    {
+      "id": "NWE-008",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "The King's Dragon": [
+    {
+      "id": "NWE-010",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Warhorse": [
+    {
+      "id": "NWE-011",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Charge of the Fairy Tale King": [
+    {
+      "id": "NWE-023",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Child of the Water Moon": [
+    {
+      "id": "NWE-024",
+      "set_code": "NWE",
+      "rarity": "RR"
+    }
+  ],
+  "Phantasmal Dormouse": [
+    {
+      "id": "NWE-030",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Deathspeaker Monk": [
+    {
+      "id": "NWE-034",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Mumu Tribe of Misty Isle": [
+    {
+      "id": "NWE-041",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Adventurer of Narrow Valley": [
+    {
+      "id": "NWE-046",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Beros, Alpha's Watchdog": [
+    {
+      "id": "NWE-050",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Child of the Darkness Moon": [
+    {
+      "id": "NWE-051",
+      "set_code": "NWE",
+      "rarity": "RR"
+    }
+  ],
+  "Decree of Absolution": [
+    {
+      "id": "NWE-062",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Messiah": [
+    {
+      "id": "NWE-062J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    }
+  ],
+  "Extract of the Fire Moon": [
+    {
+      "id": "NWE-065",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Berserker": [
+    {
+      "id": "NWE-065J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    }
+  ],
+  "Grandfather's Research Project": [
+    {
+      "id": "NWE-068",
+      "set_code": "NWE",
+      "rarity": "R"
+    }
+  ],
+  "Justice": [
+    {
+      "id": "NWE-068J",
+      "set_code": "NWE",
+      "rarity": "JR"
+    }
+  ],
+  "Paramita of the Dead": [
+    {
+      "id": "NWE-075",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Phantasmal Mad Hatter": [
+    {
+      "id": "NWE-077",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Silence of a Dark Night": [
+    {
+      "id": "NWE-080",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "The Great Wall of the Twelve Sacred Knights": [
+    {
+      "id": "NWE-083",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "Zombie Returning From the Paramita of the Dead": [
+    {
+      "id": "NWE-086",
+      "set_code": "NWE",
+      "rarity": "N"
+    }
+  ],
+  "L, Tracker": [
+    {
+      "id": "TUS-003",
+      "set_code": "TUS",
+      "rarity": "SR"
+    }
+  ],
+  "R, Tracker": [
+    {
+      "id": "TUS-056",
+      "set_code": "TUS",
+      "rarity": "SR"
+    }
+  ],
+  "Replicant: Scarlet": [
+    {
+      "id": "TWS-029",
+      "set_code": "TWS",
+      "rarity": "SR"
+    }
+  ],
+  "Replicant: Scheherazade": [
+    {
+      "id": "TWS-061",
+      "set_code": "TWS",
+      "rarity": "SR"
+    }
+  ],
+  "Elektra: Dragon Form": [
+    {
+      "id": "CMB-015J",
+      "set_code": "CMB",
+      "rarity": "JR"
+    }
+  ],
+  "Elektra: Horror Form": [
+    {
+      "id": "CMB-054J",
+      "set_code": "CMB",
+      "rarity": "JR"
+    }
+  ],
+  "The Origin of the Seven Lands": [
+    {
+      "id": "MC02-001",
+      "set_code": "CST",
+      "rarity": "MR"
+    }
+  ],
+  "Mariabella, Sincere Engineer": [
+    {
+      "id": "MC02-002",
+      "set_code": "CST",
+      "rarity": "MR"
+    }
+  ],
+  "Tina, Virtuous Stella": [
+    {
+      "id": "CST-002J",
+      "set_code": "CST",
+      "rarity": "JR"
+    }
+  ],
+  "Brandhardt, Blazing Stern": [
+    {
+      "id": "CST-016J",
+      "set_code": "CST",
+      "rarity": "JR"
+    }
+  ],
+  "Nicklausse, Enchanting Étoile": [
+    {
+      "id": "CST-030J",
+      "set_code": "CST",
+      "rarity": "JR"
+    }
+  ],
+  "Maya, Wild Estrella": [
+    {
+      "id": "CST-045J",
+      "set_code": "CST",
+      "rarity": "JR"
+    }
+  ],
+  "Stein, Deathly Star": [
+    {
+      "id": "CST-059J",
+      "set_code": "CST",
+      "rarity": "JR"
+    }
+  ],
+  "Prototype Magi Trooper": [
+    {
+      "id": "MC03-001",
+      "set_code": "JRP",
+      "rarity": "N"
+    }
+  ],
+  "Deathmetal, Sea of Metal": [
+    {
+      "id": "MC03-002",
+      "set_code": "JRP",
+      "rarity": "N"
+    }
+  ],
+  "Solari, Religious Nation": [
+    {
+      "id": "MC03-003",
+      "set_code": "JRP",
+      "rarity": "N"
+    }
+  ],
+  "Grimm, the Fairy Tale Prince": [
+    {
+      "id": "MP01-001",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Gretel": [
+    {
+      "id": "MP01-005",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Tell a Fairy Tale": [
+    {
+      "id": "MP01-006",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Forest of the Lost, Misty Woods": [
+    {
+      "id": "MP01-007",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Pandora of Light": [
+    {
+      "id": "MP01-008J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Pandora of Dark": [
+    {
+      "id": "MP01-009J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Pandora's Box of Hope": [
+    {
+      "id": "MP01-013",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Pandora, the Hope Weaving Queen": [
+    {
+      "id": "MP01-014",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Pandora, the Goddess of Light and Dark": [
+    {
+      "id": "MP01-015",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Little Red Riding Hood": [
+    {
+      "id": "MP01-016",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Little Red, the Wolf Girl": [
+    {
+      "id": "MP01-016J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Lone Wolf of the Crimson Moon": [
+    {
+      "id": "MP01-020",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "The First Lie": [
+    {
+      "id": "MP01-021",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Little Red, the Pure Stone": [
+    {
+      "id": "MP01-022",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Snow White": [
+    {
+      "id": "MP01-023",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Bloody Snow White": [
+    {
+      "id": "MP01-023J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Poison Apple": [
+    {
+      "id": "MP01-027",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Clockwork Apple Bomb": [
+    {
+      "id": "MP01-028",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Snow White of the Red Apple": [
+    {
+      "id": "MP01-029",
+      "set_code": "MP01",
+      "rarity": "R"
+    },
+    {
+      "id": "MP01-029*",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Nameless Girl": [
+    {
+      "id": "MP01-030",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Jeanne d'Arc, the Flame of Hatred": [
+    {
+      "id": "MP01-030J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Gilles de Rais, the Golden Dragon": [
+    {
+      "id": "MP01-034",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Inquisition": [
+    {
+      "id": "MP01-035",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Jeanne d'Arc, Mad Maiden": [
+    {
+      "id": "MP01-036",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Seer of the Blue Moon": [
+    {
+      "id": "MP01-037",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Kaguya, Princess of the Moon": [
+    {
+      "id": "MP01-037J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Jeweled Branch of Horai": [
+    {
+      "id": "MP01-041",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Robe of Fire-Rat": [
+    {
+      "id": "MP01-042",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Stone Bowl of Buddha": [
+    {
+      "id": "MP01-043",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Christie, the Wind Tracker": [
+    {
+      "id": "MP01-044",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Helsing, the Vampire Hunter": [
+    {
+      "id": "MP01-044J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Silver Bullet": [
+    {
+      "id": "MP01-049",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Melfee, the Successor of Sacred Wind": [
+    {
+      "id": "MP01-050",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Puss in Boots": [
+    {
+      "id": "MP01-051",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "D'Artagnan, the Bayoneteer": [
+    {
+      "id": "MP01-051J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Athos, the Three Musketeers": [
+    {
+      "id": "MP01-055",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Aramis, the Three Musketeers": [
+    {
+      "id": "MP01-056",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Porthos, the Three Musketeers": [
+    {
+      "id": "MP01-057",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Alucard, the Dark Noble": [
+    {
+      "id": "MP01-058",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Dracula, the Demonic One": [
+    {
+      "id": "MP01-058J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Dracula, Reborn Vampire": [
+    {
+      "id": "MP01-062",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "The Jewel of Darkness": [
+    {
+      "id": "MP01-062^",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Alvarez, True Demon Castle": [
+    {
+      "id": "MP01-063",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Lora, the Blood Speaker": [
+    {
+      "id": "MP01-064",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Sacred Princess of Guidance": [
+    {
+      "id": "MP01-065",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Lumia, the Creator of Hope": [
+    {
+      "id": "MP01-065J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Lumia, Saint of Creation": [
+    {
+      "id": "MP01-069",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Gatekeeper of Vell-Savaria": [
+    {
+      "id": "MP01-070",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Almerius, the Levitating Stone": [
+    {
+      "id": "MP01-071",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Falltgold, the Dragoon": [
+    {
+      "id": "MP01-072",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Bahamut, the Dragon King": [
+    {
+      "id": "MP01-072J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Ultra Dragon, Shooting Star": [
+    {
+      "id": "MP01-076",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Realm of the Dragon King": [
+    {
+      "id": "MP01-077",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Milest, the Ghostly Flame Stone": [
+    {
+      "id": "MP01-078",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Alice in Wonderland": [
+    {
+      "id": "MP01-079",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Alice, the Drifter in the World": [
+    {
+      "id": "MP01-079J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Cheshire Cat, the Grinning Remnant": [
+    {
+      "id": "MP01-083",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Moojdart, the Fantasy Stone": [
+    {
+      "id": "MP01-085",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Crimson Girl in the Sky": [
+    {
+      "id": "MP01-086",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Little Red, the True Fairy Tale": [
+    {
+      "id": "MP01-086J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Refarth, the Castle in Heaven": [
+    {
+      "id": "MP01-091",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Feethsing, the Holy Wind Stone": [
+    {
+      "id": "MP01-092",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Ebony Prophet": [
+    {
+      "id": "MP01-093",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Abdul Alhazred, the Harbinger of Despair": [
+    {
+      "id": "MP01-093J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Summoning Art of Alhazred": [
+    {
+      "id": "MP01-097",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Laplacia, the Demon of Fate": [
+    {
+      "id": "MP01-098",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Grusbalesta, the Sealing Stone": [
+    {
+      "id": "MP01-099",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Pandora, the Weaver of Myth": [
+    {
+      "id": "MP01-100",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Grimmia, the Savior of Myth": [
+    {
+      "id": "MP01-100J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Ragnarok, the Divine Sword of Savior": [
+    {
+      "id": "MP01-104",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Longinus, the Holy Lance": [
+    {
+      "id": "MP01-105",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Ame-no-Habakiri": [
+    {
+      "id": "MP01-106",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Apostle of Creation": [
+    {
+      "id": "MP01-107",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Cain, the Traitor of Gods": [
+    {
+      "id": "MP01-107J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Bullet of Envy": [
+    {
+      "id": "MP01-111",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Abel, the Avenger of Gods": [
+    {
+      "id": "MP01-112",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Jubal, the Grandsire of Musicians": [
+    {
+      "id": "MP01-113",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Moon Princess of Stellar Wars": [
+    {
+      "id": "MP01-114",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Kaguya, the Immortal Princess": [
+    {
+      "id": "MP01-114J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Magic Stone of Moon Shade": [
+    {
+      "id": "MP01-118",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Cowrie of Swallows": [
+    {
+      "id": "MP01-119",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Jewels on Dragon's Neck": [
+    {
+      "id": "MP01-120",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Liberator of Wind": [
+    {
+      "id": "MP01-121",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Scheherazade, the Teller of 1001 Stories": [
+    {
+      "id": "MP01-121J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Stories Told in 1001 Nights": [
+    {
+      "id": "MP01-125",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Sheharyar, the Distrust King": [
+    {
+      "id": "MP01-126",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Sinbad, the Windrider Merchant": [
+    {
+      "id": "MP01-127",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Fiend of Dark Pyre": [
+    {
+      "id": "MP01-128",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Nyarlathotep, the Faceless God": [
+    {
+      "id": "MP01-128J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Nyarlathotep, the Usurper": [
+    {
+      "id": "MP01-132",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Yog-Sothoth, the Dark Myth": [
+    {
+      "id": "MP01-133",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Adombrali, the Unfathomable": [
+    {
+      "id": "MP01-134",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Alice, Girl of the Lake": [
+    {
+      "id": "MP01-135",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Alice, Fairy Queen": [
+    {
+      "id": "MP01-135J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Protection of the Fairies": [
+    {
+      "id": "MP01-137",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Fairy's Memoria": [
+    {
+      "id": "MP01-138",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "The Dusk Girl": [
+    {
+      "id": "MP01-139",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Scarlet, the Crimson Beast": [
+    {
+      "id": "MP01-139J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "Heavenly Fruit": [
+    {
+      "id": "MP01-141",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Nyarlathotep, God Devouring Messiah": [
+    {
+      "id": "MP01-142",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Ayu, Lunar Swordswoman": [
+    {
+      "id": "MP01-143",
+      "set_code": "MP01",
+      "rarity": "RR"
+    }
+  ],
+  "Ayu, Shaman Swordswoman": [
+    {
+      "id": "MP01-143J",
+      "set_code": "MP01",
+      "rarity": "JR"
+    }
+  ],
+  "One and Only": [
+    {
+      "id": "MP01-145",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Possession Stone": [
+    {
+      "id": "MP01-146",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Fifth Element": [
+    {
+      "id": "MP01-149",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Leaf Paladin": [
+    {
+      "id": "MP01-150",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Glint of Insight": [
+    {
+      "id": "MP01-153",
+      "set_code": "MP01",
+      "rarity": "N"
+    }
+  ],
+  "Mikage Reiya": [
+    {
+      "id": "MP01-154",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Dark Alice, Rabbit Princess": [
+    {
+      "id": "MP01-155",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Flute, Captive Dragonoid Child": [
+    {
+      "id": "MP01-156",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Group of Comets": [
+    {
+      "id": "MP01-156^",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Tinker Bell, Spirit of the Light Trials": [
+    {
+      "id": "MP01-157",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Godly Aura": [
+    {
+      "id": "MP01-158",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone Dance of Chaos": [
+    {
+      "id": "MP01-159",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Chevaleresse's Tears": [
+    {
+      "id": "MP01-160",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Neverend, Fairy Tale Dragon": [
+    {
+      "id": "MP01-161",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Fiola, Spirit of Oblivion": [
+    {
+      "id": "MP01-162",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Ray Aznable, Reunion's Navigator": [
+    {
+      "id": "MP01-163",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Laurite, Seven Luminaries Astrologian": [
+    {
+      "id": "MP01-164",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Witch with a Pointy Hat": [
+    {
+      "id": "MP01-165",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Trishula": [
+    {
+      "id": "MP01-166",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Lailah, Maiden of the Swamps": [
+    {
+      "id": "MP01-167",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Tsuiya, Cursed Spawn of the Star": [
+    {
+      "id": "MP01-168",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Curse of Ragnarok": [
+    {
+      "id": "MP01-168^",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Alisaris, the Invader of God's City": [
+    {
+      "id": "MP01-169",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Geryon": [
+    {
+      "id": "MP01-170",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Inferno": [
+    {
+      "id": "MP01-171",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone Research Institute": [
+    {
+      "id": "MP01-172",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Ryoma Sakamoto": [
+    {
+      "id": "MP01-174",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Amadeus, Holy Crystal": [
+    {
+      "id": "MP01-175",
+      "set_code": "MP01",
+      "rarity": "R"
+    }
+  ],
+  "Lunya, Master Guide": [
+    {
+      "id": "TSD1-004",
+      "set_code": "TSD1",
+      "rarity": ""
+    }
+  ],
+  "Water Spirit of the Lamp": [
+    {
+      "id": "TSD1-007",
+      "set_code": "TSD1",
+      "rarity": ""
+    }
+  ],
+  "Epic Stone of the Treasure": [
+    {
+      "id": "TSD1-016",
+      "set_code": "TSD1",
+      "rarity": ""
+    }
+  ],
+  "Ancient Heartfelt Fire": [
+    {
+      "id": "TSD2-009",
+      "set_code": "TSD2",
+      "rarity": ""
+    }
+  ],
+  "Invitation of Disaster": [
+    {
+      "id": "TSD2-010",
+      "set_code": "TSD2",
+      "rarity": ""
+    }
+  ],
+  "Magic Stone of Dueling": [
+    {
+      "id": "TSD2-015",
+      "set_code": "TSD2",
+      "rarity": ""
+    }
+  ],
+  "Rumsfeld, Member of the Twelve Sacred Knights": [
+    {
+      "id": "TTT-006",
+      "set_code": "TTT",
+      "rarity": "R"
+    }
+  ],
+  "The Witch of the Fallen Kingdom": [
+    {
+      "id": "TTT-056",
+      "set_code": "TTT",
+      "rarity": "R"
+    }
+  ],
+  "Magic Stone of Time": [
+    {
+      "id": "TTT-084",
+      "set_code": "TTT",
+      "rarity": "N"
+    }
+  ],
+  "Magic Stone of Remnants": [
+    {
+      "id": "TTT-087",
+      "set_code": "TTT",
+      "rarity": "R"
+    }
+  ]
+}

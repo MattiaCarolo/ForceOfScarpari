@@ -1,0 +1,8 @@
+- Root 
+    - CardBrowser
+        - Browser.py
+    - DeckBuilder
+        - Deck.py
+    - cardlib.py
+    - landing.py
+    - main.py
