@@ -1,6 +1,7 @@
 
 import flet as ft
 from sidebar import Sidebar
+from data_store import SimpleDataStore
 
 
 class AppLayout(ft.Row):
@@ -15,7 +16,9 @@ class AppLayout(ft.Row):
             selected_icon=ft.Icons.ARROW_CIRCLE_RIGHT,
             on_click=self.toggle_nav_rail,
         )
-        self.sidebar = Sidebar(self, page)
+        # Create a simple data store for the sidebar
+        store = SimpleDataStore()
+        self.sidebar = Sidebar(self, store)
         self._active_view: ft.Control = ft.Column(
             controls=[ft.Text("Active View")],
             alignment=ft.MainAxisAlignment.CENTER,

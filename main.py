@@ -12,6 +12,8 @@ def load_landing(page: ft.Page):
 # class app layout -----------------------------------------------------
 class ScarparApp(AppLayout):
     def __init__(self, page: ft.Page):
+        # Call parent constructor with required parameters
+        super().__init__(app=self, page=page)
         self.page = page
         self.appbar_items = [
             ft.PopupMenuItem(text="Tournaments"),
