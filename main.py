@@ -46,7 +46,9 @@ class ScarparApp(AppLayout):
 # main -----------------------------------------------------------------
 def main(page: ft.Page):
     page.title = "FoW – Card Browser"
+    # Set both current size and minimum size to prevent UI breaking
     page.window_width, page.window_height = 1100, 700
+    page.window_min_width, page.window_min_height = 800, 600  # Minimum size to keep UI usable
     prl = ft.Text("Wait for the completion...")
 
     # loading = ft.ProgressRing(width=16, height=16, stroke_width=2)

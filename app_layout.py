@@ -23,7 +23,10 @@ class AppLayout(ft.Row):
             controls=[ft.Text("Active View")],
             alignment=ft.MainAxisAlignment.CENTER,
             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+            expand=True,  # Allow active view to expand and fill remaining space
         )
+        # Set expand=True for the entire row to fill the page
+        self.expand = True
         self.controls = [self.sidebar, self.toggle_nav_rail_button, self.active_view]
 
     @property
@@ -32,7 +35,12 @@ class AppLayout(ft.Row):
 
     @active_view.setter
     def active_view(self, view):
+        # Ensure the new view expands to fill available space
+        if hasattr(view, 'expand'):
+            view.expand = True
         self._active_view = view
+        # Update the controls list to reflect the new active view
+        self.controls = [self.sidebar, self.toggle_nav_rail_button, self._active_view]
         self.update()
 
     def toggle_nav_rail(self, e):
